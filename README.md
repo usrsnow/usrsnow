@@ -1,5 +1,5 @@
 # About Me:
-# Hello, I'm Snow<br><br>-Cybersecurity Researcher, English <-> Arabic Translator | Have English (B2) Diploma & HTB CWEE & TCM Security Certificates. Currently Working On Portswigger Certificate. <br><br>- Passionate about **cybersecurity** And Translation.<br>- For Busniess Contact Me On My Socials Below.
+# Hello, I'm Snow<br><br>-Cybersecurity Researcher, English <-> Arabic Translator <br> I Have English (B2) Diploma & HTB CWEE & TCM Security Certificates. Currently Working On Portswigger Certificate. <br><br>- Passionate about **cybersecurity** And Translation.<br>- For Busniess Contact Me On My Socials Below.
 
 
 ## 🌐 Socials:
